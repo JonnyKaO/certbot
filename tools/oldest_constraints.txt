@@ -21,7 +21,7 @@ six==1.9.0
 # in this file require setuptools>=1.0 and there are no relevant changes for us
 # between these versions.
 setuptools==1.0.0
-urllib3==1.10.2
+urllib3==1.24.2
 zope.component==4.1.0
 zope.event==4.0.3
 zope.interface==4.0.5
