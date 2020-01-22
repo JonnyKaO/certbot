@@ -33,7 +33,7 @@ MarkupSafe==1.0
 ndg-httpsclient==0.3.2
 oauth2client==2.0.0
 pathlib2==2.3.0
-pexpect==4.2.1
+pexpect==4.8.0
 pickleshare==0.7.4
 pkginfo==1.4.1
 pluggy==0.5.2
