@@ -79,7 +79,7 @@ dev_extras = [
 docs_extras = [
     'repoze.sphinx.autointerface',
     # autodoc_member_order = 'bysource', autodoc_default_flags, and #4686
-    'Sphinx >=1.0,<=1.5.6',
+    'Sphinx >=1.0,<3.4.4',
     'sphinx_rtd_theme',
 ]
 

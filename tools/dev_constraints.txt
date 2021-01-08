@@ -59,7 +59,7 @@ s3transfer==0.1.11
 scandir==1.6
 simplegeneric==0.8.1
 snowballstemmer==1.2.1
-Sphinx==1.5.6
+Sphinx==3.4.3
 sphinx-rtd-theme==0.2.4
 tldextract==2.2.0
 tox==2.9.1
